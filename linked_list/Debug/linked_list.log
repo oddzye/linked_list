@@ -1,0 +1,5 @@
+﻿  linked_list.cpp
+c:\users\дмитрий\documents\visual studio 2015\projects\linked_list\linked_list\linked_list.cpp(88): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "type *"
+c:\users\дмитрий\documents\visual studio 2015\projects\linked_list\linked_list\linked_list.cpp(93): warning C4715: get: значение возвращается не при всех путях выполнения
+  linked_list.vcxproj -> c:\users\дмитрий\documents\visual studio 2015\Projects\linked_list\Debug\linked_list.exe
+  linked_list.vcxproj -> c:\users\дмитрий\documents\visual studio 2015\Projects\linked_list\Debug\linked_list.pdb (Partial PDB)
